@@ -1,0 +1,1 @@
+This folder contains some images you can use for your testing
